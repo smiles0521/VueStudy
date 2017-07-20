@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "微软雅黑";
+}
+html,
+body{
+	font-size: 62.5%;
+}
+.fontSize2{
+	font-size: 3.2rem;
+}
+.fontSize1{
+	font-size: 1.6rem;
+}
+.red{
+	color: #f00;
+}
+.bold{
+	font-weight: bold;
+}
